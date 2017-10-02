@@ -1,0 +1,14 @@
+html {
+  font-family: Verdana;
+  background-color: black;
+  }
+#header {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  }
+#hyperlink {
+  color: Aquamarine
+  text-align: center;
+  }
